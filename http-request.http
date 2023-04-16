@@ -1,0 +1,11 @@
+###
+POST http://localhost:8080/api/v1/student
+Content-Type: application/json
+{
+"name": "XYZ",
+"email": "xyz@i2cinc.com",
+"dob":"1000-2-3",
+"age":"22"
+}
+
+###
